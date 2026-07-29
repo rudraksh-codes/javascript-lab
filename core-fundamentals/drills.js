@@ -146,3 +146,14 @@ function findMax(...nums){
     return mx  
 }
 findMax(567,6778,87654,233,5);
+
+
+
+
+
+
+
+
+
+
+
