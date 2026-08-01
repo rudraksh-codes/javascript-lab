@@ -17,8 +17,6 @@ function createCounter(start = 0){
     }; 
 }
 
-
-
 const counterA = createCounter(); //0
 
 const counterB = createCounter(100); //100
